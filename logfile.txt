@@ -1,0 +1,65 @@
+commit 2f95f9b8aaaeac203561d889fbdb8e91b139e373
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 11:41:16 2018 +0100
+
+    now it actually feels like passing notes in the 21st C. COOL.
+
+commit 473739e986d3788ab8d5b6e95577cc44e8935b6b
+Author: Yoolim Kim <yoolim.kim@ling-phil.ox.ac.uk>
+Date:   Fri Sep 7 11:39:10 2018 +0100
+
+    I hope this works I messed up somewhere.
+
+commit 447e7c919ad1403d730cfe3fcd15fc3950176f34
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 11:34:17 2018 +0100
+
+    corrected stephen's name and provided constructive criticism
+
+commit e4baf4848cce094e09b8df7453a25515d74b32a5
+Author: Yoolim Kim <yoolim.kim@ling-phil.ox.ac.uk>
+Date:   Fri Sep 7 11:32:24 2018 +0100
+
+    new pluto text with feelings about us
+
+commit 7ee0706b16c5753988df8f70d2165420f95a8798
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 10:53:47 2018 +0100
+
+    adding .gitignore to ignore .dat and private.txt
+
+commit 5e8a6277f5b09e224063a56333b0f6755613f82e
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 10:15:07 2018 +0100
+
+    Just keeping up with all the files and exercises
+
+commit 74e2d8c83656364422a74d012ad90f6758211873
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 10:00:58 2018 +0100
+
+    fixed a typo
+
+commit 587881541015156991905276de2f50f2ffa4a6b1
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 09:44:08 2018 +0100
+
+    I've added a comment
+
+commit 004c4d7b737d0bc04b9fec8757586e785a1f5cd8
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 09:40:33 2018 +0100
+
+    this is the alternative text file for this exercise
+
+commit 6a0c264ecb1e8ac1f185700abb0582280f1f9d9c
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 09:37:36 2018 +0100
+
+    I added a line
+
+commit 25bd3465324b456a325f2ab20d7f26a1ae91d442
+Author: Kim Fuellenbach <kim.fuellenbach@worc.ox.ac.uk>
+Date:   Fri Sep 7 09:30:25 2018 +0100
+
+    This is my first version about Mars.
